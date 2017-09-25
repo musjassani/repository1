@@ -1,6 +1,6 @@
 package com.amj.beans;
 
-public class personne {
+public class Personne {
 	private String nom;
 	
 	//getter
