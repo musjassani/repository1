@@ -4,7 +4,7 @@ public class Personne {
 	private String nom;
 	
 	//getter
-	public void getNom() {
+	public String getNom() {
 		return nom;
 	}
 	
