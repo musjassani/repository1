@@ -3,12 +3,13 @@ package com.amj.beans;
 public class personne {
 	private String nom;
 	
-	//getNom
+	//getter
 	public void getNom() {
 		return nom;
 	}
 	
-	//setNom
+
+	//setter
 	public void setNom(String nom) {
 		this.nom = nom;
 	}
